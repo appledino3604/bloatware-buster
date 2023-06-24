@@ -4,12 +4,12 @@ Bloatware Buster is a simple utility that helps you remove bloatware from Window
 # Installtion
 Simply download and run the exe, requires admin priveleges. Built for Windows 10 but can also be run on Windows 11
 
-#Help
+# Help
 Information about using this program is provided in the program itself. You can access by clicking help button under the other tab.
 
-#License
+# License
 Open source MIT license
 
-#Future development
+# Future development
 Option to block windows updates
 
